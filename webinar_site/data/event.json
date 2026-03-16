@@ -1,0 +1,17 @@
+{
+  "title": "Claude Code in an Hour: A Developer's Intro",
+  "subtitle": "Learn to delegate coding tasks directly from your terminal with Claude Code, Anthropic's agentic CLI tool.",
+  "date": "2026-07-15",
+  "time": "10:00 AM PT",
+  "datetime_utc": "2026-07-15T17:00:00",
+  "duration_minutes": 60,
+  "format": "Live Webinar",
+  "topics": [
+    "Evolution from autocomplete to autonomous agents",
+    "Installation and setup in minutes",
+    "CLAUDE.md, smart prompting, and structured workflows",
+    "Live demo: code exploration, debugging, testing, and shipping commits"
+  ],
+  "cta_text": "Register Now",
+  "recording_note": "Can't make it? Register anyway — we'll send you the recording within 48 hours."
+}
