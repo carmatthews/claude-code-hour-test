@@ -30,7 +30,7 @@ def calculate_countdown(event_datetime, now=None):
         return {"days": 0, "hours": 0, "minutes": 0, "seconds": 0, "passed": True}
 
     days = total_seconds // 86400
-    hours = total_seconds // 3600  # BUG: should be (total_seconds % 86400) // 3600
+    hours = (total_seconds % 86400) // 3600
     minutes = (total_seconds % 3600) // 60
     seconds = total_seconds % 60
 

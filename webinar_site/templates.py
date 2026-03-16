@@ -74,6 +74,22 @@ def render_landing_page(event, speakers, countdown):
                     </div>
                 </div>
 
+                <!-- 8-Bit Pixel Art Animation -->
+                <div class="pixel-character-scene">
+                    <div class="scene-cloud cloud-1"></div>
+                    <div class="scene-cloud cloud-2"></div>
+                    <div class="scene-cloud cloud-3"></div>
+                    <div class="scene-hill hill-1"></div>
+                    <div class="scene-hill hill-2"></div>
+                    <div class="scene-runner">
+                        <div class="speech-bubble">let claude cook</div>
+                        <div class="runner-body"></div>
+                        <div class="runner-legs leg-frame-1"></div>
+                        <div class="runner-legs leg-frame-2"></div>
+                    </div>
+                    <div class="scene-ground"></div>
+                </div>
+
                 <!-- Speakers -->
                 <div class="featuring">
                     <h2 class="section-heading-sm">Featuring</h2>
